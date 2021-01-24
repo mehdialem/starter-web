@@ -14,6 +14,10 @@ Simple employment of the package
 
 How to install the package 
 
-# Help
+## Help
 
 Need to know how to...? 
+
+### Copyright
+
+2021 GIT
