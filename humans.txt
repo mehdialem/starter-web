@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mehdi Alem mehdi@alem.com @mehdialem 
 
 # THANKS
 
