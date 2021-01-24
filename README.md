@@ -21,3 +21,7 @@ Need to know how to...?
 ### Copyright
 
 2021 GIT
+
+## How to contribute 
+
+Fork the repository and issue pull request for review 
